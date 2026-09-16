@@ -1,6 +1,6 @@
 # 🛡️ DeepGuard — AI-Driven Financial Forensics Platform
 
-### Iqra University FYP 2026 | Supervised by Dr. Dure e Jabeen
+### Iqra University FYP 2026 | Supervised
 
 ---
 
